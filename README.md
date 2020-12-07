@@ -37,11 +37,13 @@ You can print this one here and complete it by hand or download the PDf and comp
 <br>
 
 All set with the template? 
-We're going to pretend we work in a communications firm, and we've been hired by Universal Fun Kids Camp Inc to design an online camp portal for teens that mimics a classic in-person summer camp experience.
+For this lab today, we're going to pretend we work as freelance designers, and we've been hired by Universal Fun Kids Camp Inc to design an online camp portal for teens that mimics a classic in-person summer camp experience.
 
 <br>
-They've handed our UX team this persona, and they want us to create a user journey map based around this information.
+They've handed us this persona, and they want us to create a user journey map based around this information.
+
 <b>Meet Frieda.</b>
+
 <img src="https://images.squarespace-cdn.com/content/597b985ccd39c3708a0cfc48/1607374007326-3IURKE4A8PN80UUZUMO0/persona.jpg?format=1000w&content-type=image%2Fjpeg" width="850">
 <i> Image by Maria Rumyantseva </i>
 </br>
@@ -49,19 +51,18 @@ They've handed our UX team this persona, and they want us to create a user journ
 #### What is a journey map?
 
 It is a visualization of the process that a person goes through in order to accomplish a goal.
-Most journey maps follow a similar format: at the top, you define a specific user, which here would be Frieda, the specific scenario that she is in, and any corresponding expectations she has about this experience; in the middle area, there are 4 phases she will go through when choosing to sign up for camp, and youll need to identify her actions, thoughts, and feelings as shes goes through the process;  at the very bottom, you'll list the takeaways: opportunities, insights, and internal ownership, aka, what the company that is hiring your firm should do to make Frieda signup for camp!
+
+Most journey maps follow a similar format: at the top, you define a specific user, which here would be Frieda, the specific scenario that she is in, and any corresponding expectations she has about this experience; in the middle area, there are 4 phases she will go through when choosing to sign up for camp, and you'll need to identify her actions, thoughts, and feelings as she goes through the process;  at the very bottom, you'll list the takeaways: opportunities, insights, and internal ownership, aka, what the company that is hiring you should do to make Frieda signup for camp!
 
 Start by asking: <b>What is Freida's goal?</b> What does she want to accomplish here when signing up for online camp?
 
 Next, for this exercise, the four phases will be defined by the typical emotional up and downs during a teenager's day while on vacation at home. 
 Hint: she probably experiences boredom and frustration, and maybe spends a little too much time on social media. 
 
-How will you define the phases of Friedsa's journey? By time of day, or maybe the emotional arc of looking for something fun to do? Be creative.
+How will you define the phases of Frieda's journey? By time of day, or maybe the emotional arc of looking for something fun to do? Be creative.
 
 #### Now, go play! 
 Complete your journey map on your own as much as you can, but feel free to huddle up and compare notes after you've worked on it alone for 30 minutes.
 
 And don't forget to fill in the bottom, particularly the Opportunities section:
-Where are the biggest opportunities for your client Universal Fun Kids Camp Inc?
-How are they going to measure improvements they implement based on Frieda's journey?
-
+Where are the biggest opportunities for your client Universal Fun Kids Camp Inc? What things can they implement based on what you've discovered about Frieda and their customers with this journey map?
