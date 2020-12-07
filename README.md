@@ -8,8 +8,8 @@ What does she need?
 How could the phone carrier have helped Naya better and kept her as a customer?
 
 ## An Ideation Game: 1000 Uses
-Before we make our journay map, we're going to play a game.
-The goal of this game? Thinking outside the box, encouraging wild ideas, and practicing empathy!
+Before we make our journey map, we're going to play a game.
+The goal of this game? Thinking outside the box, encouraging wild ideas, and practicing empathy! All key skills for a UX designer.
 
 First, split off into pairs.
 Next, I'm going to give you an object (for example: paperclip, teacup, spoon). 
