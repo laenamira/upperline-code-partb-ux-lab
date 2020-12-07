@@ -44,8 +44,8 @@ They've handed our UX team this persona, and they want us to create a user journ
 <b>Meet Frieda.</b>
 <img src="https://images.squarespace-cdn.com/content/597b985ccd39c3708a0cfc48/1607374007326-3IURKE4A8PN80UUZUMO0/persona.jpg?format=1000w&content-type=image%2Fjpeg" width="850">
 <i> Image by Maria Rumyantseva </i>
-<br>
-<br>
+</br>
+
 #### What is a journey map?
 
 It is a visualization of the process that a person goes through in order to accomplish a goal.
