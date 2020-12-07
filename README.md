@@ -30,15 +30,19 @@ Today, we'll use this template.
 You can print this one here and complete it by hand or download the PDf and complete it online.
 <img src="https://images.squarespace-cdn.com/content/597b985ccd39c3708a0cfc48/1607372220226-9784ICTQERZUHRWTK9EI/Upperline%2BCode%2B-%2BJourney%2BMap%2BTemplate.jpg?format=1000w&content-type=image%2Fjpeg" width="850">
 <br>
+
 All set with the template? 
 We're going to pretend we work in a communications firm, and we've been hired by Universal Fun Kids Camp Inc to design an online camp portal for teens that mimics a classic in-person summer camp experience.
+
 <br>
 They've handed our UX team this persona, and they want us to create a user journey map based around this information.
+<b>Meet Frieda.</b>
 <img src="https://images.squarespace-cdn.com/content/597b985ccd39c3708a0cfc48/1607374007326-3IURKE4A8PN80UUZUMO0/persona.jpg?format=1000w&content-type=image%2Fjpeg" width="850">
-
 <i> Image by Maria Rumyantseva </i>
 <br>
-So what is a journey map?
+<br>
+#### What is a journey map?
+
 It is a visualization of the process that a person goes through in order to accomplish a goal.
 Most journey maps follow a similar format: at the top, you define a specific user, which here would be Frieda, the specific scenario that she is in, and any corresponding expectations she has about this experience; in the middle area, there are 4 phases she will go through when choosing to sign up for camp, and youll need to identify her actions, thoughts, and feelings as shes goes through the process;  at the very bottom, you'll list the takeaways: opportunities, insights, and internal ownership, aka, what the company that is hiring your firm should do to make Frieda signup for camp!
 
