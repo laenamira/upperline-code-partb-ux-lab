@@ -2,6 +2,7 @@
 #### The Goal
 We're going to build a user journey map! When it's finished, it will look something like this:
 <img src="https://images.squarespace-cdn.com/content/597b985ccd39c3708a0cfc48/1607372269902-FIJSE40KHF5S33O96KNV/Upperline%2BCode%2BPart%2BB%2BJourney%2BMap.jpg?format=1000w&content-type=image%2Fjpeg" width="850">
+<br>
 Who is the customer? 
 What does she need? 
 How could the phone carrier have helped Naya better and kept her as a customer?
@@ -12,11 +13,15 @@ The goal of this game? Thinking outside the box, encouraging wild ideas, and pra
 
 First, split off into pairs.
 Next, I'm going to give you an object (for example: paperclip, teacup, spoon). 
-You and your partner need to come up with 1,000 uses for this object in 2 minutes. 
+
+<b> You and your partner need to come up with 1,000 uses for this object in 2 minutes.</b>
+
 No repeats! Each of you will take turns in your pairs coming up with new ideas for 2 minutes. 
+
 Let your mind go wild and weird, be funny, and don't stop talking! 
 The other partner listens and takes notes, then you switch.
 I'll be keeping track of the time! When your time is up, you'll share with us how many ideas you generated. 
+
 The group with the most ideas wins!
 
 ## The User Journey Map
